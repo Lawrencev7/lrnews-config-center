@@ -1,4 +1,4 @@
-blackIp:
-  continueCounts: 40
-  timeInterval: 70
-  limitTimes: 315
+IpBlockSetting:
+    requestLimit: ${requestLimit:40}
+    timeInterval: ${interval:70} # seconds
+    limitTime: ${limit:300} # seconds
