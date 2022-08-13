@@ -1,4 +1,4 @@
 IpBlockSetting:
     requestLimit: ${requestLimit:10}
     timeInterval: ${interval:15} # seconds
-    limitTime: ${limit:15} # seconds
+    limitTime: ${limit:20} # seconds
